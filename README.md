@@ -19,4 +19,12 @@ https://svn.code.sf.net/p/randomguideclipseplugin/code/
 
 Source codes will be added later..
 
+Below pictures show the example usages..
+
 ![alt tag](https://raw.githubusercontent.com/talipkorkmaz/randomGuid-eclipse-plugin/master/images/screenshot1.PNG)
+
+![alt tag](https://raw.githubusercontent.com/talipkorkmaz/randomGuid-eclipse-plugin/master/images/screenshot2.PNG)
+
+![alt tag](https://raw.githubusercontent.com/talipkorkmaz/randomGuid-eclipse-plugin/master/images/screenshot3.PNG)
+
+![alt tag](https://raw.githubusercontent.com/talipkorkmaz/randomGuid-eclipse-plugin/master/images/screenshot4.PNG)
