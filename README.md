@@ -19,3 +19,4 @@ https://svn.code.sf.net/p/randomguideclipseplugin/code/
 
 Source codes will be added later..
 
+![alt tag](https://raw.githubusercontent.com/talipkorkmaz/randomGuid-eclipse-plugin/master/images/screenshot1.PNG)
